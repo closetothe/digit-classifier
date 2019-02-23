@@ -1,5 +1,5 @@
-Jamiel Rahi and Arnaud L'Heureux
-November 2018
+### Jamiel Rahi and Arnaud L'Heureux  
+#### November 2018  
 
 # Handwritten-Digit Classifier
 
