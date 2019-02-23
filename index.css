@@ -1,0 +1,22 @@
+
+#canvas-div, #pcanvas-div{
+	text-align: center;
+}
+
+#canvas, #pcanvas{
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+
+h1,h2{
+	font-family: Ubuntu;
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+#input-title{
+	padding-top: 20px;
+}
